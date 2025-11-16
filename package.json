@@ -1,0 +1,8 @@
+{
+  "name": "deepseek-story-generator",
+  "version": "1.0.0",
+  "description": "Vercel Serverless API for DeepSeek",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
